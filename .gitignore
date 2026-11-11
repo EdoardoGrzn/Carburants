@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+data/prix_carburants.db
+data/prix-des-carburants-en-france.csv
